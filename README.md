@@ -29,17 +29,3 @@ L'application est composée de **deux modules** :
    - Exposé sur le port **8080**
 
 ---
-
-## Arborescence du projet
-student_list/
-├── student_api/
-│ ├── Dockerfile
-│ ├── requirements.txt
-│ ├── student_age.json
-│ └── student_age.py
-├── website/
-│ └── index.php
-├── docker-compose.yml
-├── Vagrantfile
-├── install-docker.sh
-└── README.md
